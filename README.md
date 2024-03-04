@@ -1,10 +1,12 @@
 # Project-HSE-Security-detected-object
-Detected Object YOLO v8 - Projet HSE Safety ( Protection Glasses/Goggles ) 
+Detected Object HTML 100% - Projet HSE Safety ( Protection Glasses/Goggles ) 
 
 This project, developed by JALAL AHMED, focuses on object detection for portable items such as glasses and goggles. 
 the file can detect the device  ( camera  ) automaric and easy to RUN
 
 The application of object detection has numerous practical implications, including augmented reality, safety, and inventory management.
+
+Work Local / Web 100% Any device 
 
 Key Features:
 
